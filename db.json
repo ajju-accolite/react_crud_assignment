@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": "cd03",
+      "name": "aditya karode",
+      "email": "adi3566@gmail.com",
+      "address": "Sector 46, Gurugram",
+      "age": "25",
+      "gender": "male",
+      "phone": "9216487499",
+      "jobtitle": "full stack developer"
+    },
+    {
+      "id": "a88d",
+      "name": "Ajay Karode",
+      "email": "ak3566@gmail.com",
+      "address": "Silicon City, Indore",
+      "age": "20",
+      "phone": "5732164356"
+    },
+    {
+      "id": "127a",
+      "name": "Mayur Gurjar",
+      "email": "mj3566@gmail.com",
+      "address": "Sector 51, Gurugram",
+      "age": "20",
+      "phone": "8345720529",
+      "gender": "male",
+      "jobtitle": "full stack developer"
+    },
+    {
+      "id": "600b",
+      "name": "NITIN GURJAR",
+      "email": "nj3566@gmail.com",
+      "address": "silicon city, indore",
+      "age": "30",
+      "gender": "Male",
+      "jobtitle": "Data Engineer",
+      "phone": "6739385739"
+    }
+  ]
+}
